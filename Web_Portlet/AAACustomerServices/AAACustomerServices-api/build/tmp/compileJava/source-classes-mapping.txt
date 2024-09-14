@@ -1,0 +1,48 @@
+AAACustomerServices/exception/NoSuchServicesException.java
+ AAACustomerServices.exception.NoSuchServicesException
+AAACustomerServices/model/CustomerModel.java
+ AAACustomerServices.model.CustomerModel
+AAACustomerServices/model/CustomerTable.java
+ AAACustomerServices.model.CustomerTable
+AAACustomerServices/model/CustomerWrapper.java
+ AAACustomerServices.model.CustomerWrapper
+AAACustomerServices/model/Customer.java
+ AAACustomerServices.model.Customer
+ AAACustomerServices.model.Customer$1
+AAACustomerServices/model/ServicesModel.java
+ AAACustomerServices.model.ServicesModel
+AAACustomerServices/model/ServicesWrapper.java
+ AAACustomerServices.model.ServicesWrapper
+AAACustomerServices/service/persistence/ServicesUtil.java
+ AAACustomerServices.service.persistence.ServicesUtil
+AAACustomerServices/model/Services.java
+ AAACustomerServices.model.Services
+ AAACustomerServices.model.Services$1
+AAACustomerServices/model/ServicesTable.java
+ AAACustomerServices.model.ServicesTable
+AAACustomerServices/exception/CustomerEmailException.java
+ AAACustomerServices.exception.CustomerEmailException
+AAACustomerServices/service/persistence/CustomerUtil.java
+ AAACustomerServices.service.persistence.CustomerUtil
+AAACustomerServices/service/persistence/CustomerPersistence.java
+ AAACustomerServices.service.persistence.CustomerPersistence
+AAACustomerServices/exception/CustomerNameException.java
+ AAACustomerServices.exception.CustomerNameException
+AAACustomerServices/service/persistence/ServicesPersistence.java
+ AAACustomerServices.service.persistence.ServicesPersistence
+AAACustomerServices/exception/ServiceNameException.java
+ AAACustomerServices.exception.ServiceNameException
+AAACustomerServices/exception/NoSuchCustomerException.java
+ AAACustomerServices.exception.NoSuchCustomerException
+AAACustomerServices/service/ServicesLocalServiceUtil.java
+ AAACustomerServices.service.ServicesLocalServiceUtil
+AAACustomerServices/service/CustomerLocalServiceWrapper.java
+ AAACustomerServices.service.CustomerLocalServiceWrapper
+AAACustomerServices/service/CustomerLocalService.java
+ AAACustomerServices.service.CustomerLocalService
+AAACustomerServices/service/ServicesLocalService.java
+ AAACustomerServices.service.ServicesLocalService
+AAACustomerServices/service/ServicesLocalServiceWrapper.java
+ AAACustomerServices.service.ServicesLocalServiceWrapper
+AAACustomerServices/service/CustomerLocalServiceUtil.java
+ AAACustomerServices.service.CustomerLocalServiceUtil
